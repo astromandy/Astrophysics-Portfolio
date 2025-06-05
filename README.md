@@ -4,12 +4,7 @@ Welcome! I'm a PhD student in Astrophysics focused on the characterization and c
 
 ## 🌌 Projects
 
-- **[VSX CVs Scraper](./vsx_cvs_scraper/)**: Selenium script to automatically download CV lists from AAVSO’s VSX database.
-- **[ASAS-SN Light Curves](./lightcurve_fetcher/)**: Python script to retrieve public light curves using ASAS-SN data.
-- **[CV Classification](./classification_model/)**: Machine learning models to classify cataclysmic variable stars based on public time series data.
-
-## 🔭 Areas of Interest
-
-- Time-domain astronomy  
+- **[ASAS-SN Light Curves](https://github.com/astromandy/asas-etl-lightcurves)**: Python script to retrieve public light curves using ASAS-SN data.
+- **[Spectral Line Fitting](https://github.com/astromandy/spectral-line-fitting)**: Interactive tool for measuring spectral lines using single or double Gaussian fitting.
+- 
 - Spectral line analysis  
-- Variable star classification using machine learning
